@@ -9,7 +9,7 @@ export default function MainNav() {
         <>
         <Navbar expand="lg" className="fixed-top navbar-dark bg-dark">
             <Container>
-                <Navbar.Brand>Oscar Li</Navbar.Brand>
+                <Navbar.Brand>Ali Keshavarzi</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
